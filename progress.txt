@@ -1,0 +1,37 @@
+800 x 500
+
+to do :
+
+
+doing :
+
+	
+
+
+
+
+done :
+
+	class players
+	class enemies
+	create enemies list
+	create collisions of enemies
+	create score text
+	create colission with player and bonus
+	set score to collide with bonus
+	Show Time
+	Detect collision between the enemies and the bonus
+	Start Menu with all options
+	Game over Message
+	Continue Game After Game Over
+	Fix Clock bug
+	Show_Congratulations Message
+	continue after cond congratulation message
+	maxscore system
+	music to title
+	music to game
+	make a channel to stop game over sound when user press espace when the sound has no finished
+	bestscore, and stage clear sound and fixed
+	bad mushroom sound
+	Set Icon to the game
+
