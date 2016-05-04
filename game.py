@@ -351,12 +351,6 @@ create_bonus_list(lista_bonus,5, mario)
 lista = []
 create_enemy_list(lista,5, mario, lista_bonus)
 
-
-#fondo image
-
-imagen_fondo = pygame.image.load("fondo.jpg")
-imagen_title = pygame.image.load("title_fondo.jpg")
-
 #sounds
 
 sound_mushroom = pygame.mixer.Sound("mushroom.wav")
